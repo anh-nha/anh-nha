@@ -20,8 +20,8 @@ Tôi là một người đam mê công nghệ, yêu thích khám phá và xây d
 - Nhóm học tập về Python, DevOps, hoặc blockchain.
 
 ## 📫 Liên hệ với tôi qua...
-- **Telegram**: @YourTelegramHandle (thay bằng handle của bạn)
-- **Email**: your.email@example.com (thay bằng email của bạn)
+- **Telegram**: @DTA1403
+- **Email**: adinh2291@gmail.com
 - **GitHub**: [github.com/anh-nha](https://github.com/anh-nha)
 
 ## 😄 Đại từ: ...
